@@ -81,6 +81,4 @@ _For more examples, please refer to the Epress [Documentation](https://expressjs
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@zainaweb](https://twitter.com/@zainaweb) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Your Name - [@zainaweb](https://twitter.com/@zainaweb)
